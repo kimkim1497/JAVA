@@ -4,7 +4,7 @@ public class C00Helloworld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("HELLO WOLRD");
+		System.out.println("HELLO WOLRhjkD");
 	}
 
 }
